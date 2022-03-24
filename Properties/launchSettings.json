@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ClassVsStruct_v2": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
